@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>&quot;Anne Karenina&quot; by Lev Tolstoy</string>
+		<key>description</key>
+		<string>Classic roman of XIX century</string>
+		<key>image</key>
+		<string>anne</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Repka</string>
+		<key>description</key>
+		<string>Good fairytail for little kids</string>
+		<key>image</key>
+		<string>repka</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>&quot;Master and Margarita&quot; by Bulgakov</string>
+		<key>description</key>
+		<string>Classic roman of XX century</string>
+		<key>image</key>
+		<string>master</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>&quot;War and Peace&quot; by Lev Tolstoy</string>
+		<key>description</key>
+		<string>Classic roman-epopey about love and war</string>
+		<key>image</key>
+		<string>war</string>
+	</dict>
+</array>
+</plist>
